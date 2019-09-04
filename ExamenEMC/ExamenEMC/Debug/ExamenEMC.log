@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-c:\users\user\desktop\examenemc\examenemc\source.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  ExamenEMC.vcxproj -> C:\Users\User\Desktop\ExamenEMC\Debug\ExamenEMC.exe
+  ExamenEMC.vcxproj -> C:\Users\User\Desktop\EMCgit\EMC\ExamenEMC\Debug\ExamenEMC.exe
